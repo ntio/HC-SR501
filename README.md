@@ -1,2 +1,4 @@
 # HC-SR501
-PIR &amp; twilight
+PIR + twilight
+pequeños cambios para combertirlo en crepuscular
+small changes to make it twilight
